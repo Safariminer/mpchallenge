@@ -1,0 +1,6 @@
+﻿  Networking.cpp
+C:\MPChallenge\Networking.cpp(27,30): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+C:\MPChallenge\Networking.cpp(27,30): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\MPChallenge\Networking.cpp(27,55): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+C:\MPChallenge\Networking.cpp(27,55): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  MPChallenge.vcxproj -> C:\MPChallenge\x64\Debug\MPChallenge.exe
